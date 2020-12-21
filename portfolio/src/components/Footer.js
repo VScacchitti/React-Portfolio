@@ -3,7 +3,11 @@ import React from "react";
 function Footer() {
   return (
   <footer>
-    &copy; {new Date().getFullYear()} COPYRIGHT 
+    <nav className="navbar fixed-bottom navbar-light bg-primary">
+      <div className="container-fluid">
+       &copy; {new Date().getFullYear()} COPYRIGHT 
+      </div>
+    </nav>
   </footer>
   );
 }
