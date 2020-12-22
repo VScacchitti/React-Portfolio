@@ -46,7 +46,7 @@
     },
     {
         "id": 6,
-        "image": "https://user-images.githubusercontent.com/67161794/98389105-9e7e0280-2021-11eb-8716-b442299b9794.png",
+        "image": "https://user-images.githubusercontent.com/67161794/102943607-8c97d800-4486-11eb-9cfc-be0330cc6142.png",
         "name":"Stop! Burger-Time!",
         "description": "A Burger ORM that allows the user to create a list of burgers and then click a button to eat them and change the column to devour. This is a designed in an MVC style and uses mySQL as a database.",
         "tech": "HTML5, CSS3, JavaScript, MySQL, MVC",

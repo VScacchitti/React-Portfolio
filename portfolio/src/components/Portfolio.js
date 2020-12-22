@@ -12,7 +12,7 @@ function Projects(props) {
       <div className="card portfolio">
         <div className="img-container">
           <Card>
-            <CardHeader className="text-light bg-primary">{props.name}</CardHeader>
+            <CardHeader className="header text-light bg-primary">{props.name}</CardHeader>
             <CardImg top width="100%" src={props.picture} alt="website image"/>
               <CardBody className="card body">
   
@@ -46,7 +46,7 @@ function Projects(props) {
                   > 
                      GITHUB 
                   </a>
-                  |
+                  | 
                   <a
                     className="external-links"
                     id="website"
@@ -56,7 +56,7 @@ function Projects(props) {
                     rel="noopener noreferrer" 
                     target="_blank"
                     > 
-                     DEPLOYED SITE
+                      DEPLOYED SITE
                   </a>
                 </div>
   
