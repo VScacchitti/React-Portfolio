@@ -39,3 +39,5 @@ function AboutMe () {
         </div>
     )
 }
+
+export default AboutMe;
