@@ -12,7 +12,7 @@ function Projects(props) {
       <div className="card portfolio">
         <div className="img-container">
           <Card>
-            <CardHeader className="text-light bg-primary">{props.name}</CardHeader>
+            <CardHeader className="text-light bg-primary" block>{props.name}</CardHeader>
             <CardImg top width="100%" src={props.picture} alt="website image"/>
               <CardBody className="card body">
   

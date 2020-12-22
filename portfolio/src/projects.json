@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "image": "https://user-images.githubusercontent.com/67161794/102942582-c5827d80-4483-11eb-8e9d-798759e6070d.png",
+        "name":"Homework Helper",
+        "description": "Created for grades K-12. Homework Helper is an online platform to keep track of assignments. This application also assists students with their homework in the form of a calculator, grammar bot, and spell checker. We’ve added a place for artwork as well!",
+        "tech": "HTML5, CSS3,Materlize, Dictionary API, JavaScript, jQuery, AJAX",
+        "github": "https://github.com/VScacchitti/HomeworkHelper",
+        "site": "https://vscacchitti.github.io/HomeworkHelper/"
+    },
+    {
+        "id": 2,
+        "image": "https://user-images.githubusercontent.com/67161794/91618186-b8330780-e957-11ea-8c36-b2bbf280fa5b.png",
+        "name":"QuizApp.",
+        "description": "In this simple quiz application we use HTML, CSS, JS, and DOM manipulation to write a quiz about coding, This quiz is timed, begins on a start button, the quiz lets a user know if they are correct or incorrect by showing red or green on the selected answer. The top 5 quiz scores are saved onto a High Scores page where the user can enter their intials or name.",
+        "tech": "HTML5, CSS3, JavaScript",
+        "github": "https://github.com/VScacchitti/QuizApp",
+        "site": "https://vscacchitti.github.io/QuizApp/"
+    },
+    {
+        "id": 3,
+        "image": "https://user-images.githubusercontent.com/67161794/95897202-25a9c480-0d5b-11eb-8854-a2b054a8c667.png",
+        "name":"Employee Summary Generator",
+        "description": " A node.js CLI that creates an employee summary dashboard based on user input.",
+        "tech": "Node.JS, Javascript, HTML5, CSS3",
+        "github": "https://github.com/VScacchitti/Employee-Summary-Template-Engine",
+        "site": "Head Over to my GitHub to install this!"
+    },
+    {
+        "id": 4,
+        "image":"https://user-images.githubusercontent.com/67161794/97362504-7f3fe200-1877-11eb-84da-8c78cc58f742.png",
+        "name":"E.D.M",
+        "description": "This command line application allows the user to access, add, update, or delete employee information from a database.",
+        "tech": "Node.js, MYSQL, Javascript",
+        "github": "https://github.com/VScacchitti/E-D-M",
+        "site": "Head Over to my Github to install this!"
+    },
+    {
+        "id": 5,
+        "image": "https://user-images.githubusercontent.com/67161794/99854370-b346b400-2b52-11eb-8d0c-ac9064bc4f4a.png",
+        "name":"Re:bate",
+        "description": "A custom made sequelize ORM. This application allows users to create a debate on a choice of three topics brough into our database from googleTrends. This application allows users to cooment on the topic above and see what others think about it.",
+        "tech": "HTML5, CSS3, JavaScript, jQuery, Express.js, Express-Handlbars, GoogleTrendsAPI, MySQL, Sequelize",
+        "github": "https://github.com/VScacchitti/RE-Bate",
+        "site": "https://sheltered-shelf-47742.herokuapp.com/"
+    },
+    {
+        "id": 6,
+        "image": "https://user-images.githubusercontent.com/67161794/98389105-9e7e0280-2021-11eb-8716-b442299b9794.png",
+        "name":"Stop! Burger-Time!",
+        "description": "A Burger ORM that allows the user to create a list of burgers and then click a button to eat them and change the column to devour. This is a designed in an MVC style and uses mySQL as a database.",
+        "tech": "HTML5, CSS3, JavaScript, MySQL, MVC",
+        "github": "https://github.com/VScacchitti/Stop-Burger-Time",
+        "site": "https://whispering-reef-69189.herokuapp.com/#/"
+    },
+    {
+        "id": 7,
+        "image": "https://user-images.githubusercontent.com/67161794/102687202-70ace180-41bb-11eb-9bd2-e2ba2659ea7b.png",
+        "name":"EmployeeFinder",
+        "description": "An employer Database built with React, and uses the random user API to populate the table wiht an image, name, phone, email and DOB. The user can sort by name of the employee by clicking on the column. They can also search for a specifc employee using the search bar.",
+        "tech": " React.js, HTML5, CSS3, JavaScript",
+        "github": "https://github.com/VScacchitti/EmployeeFinder-React",
+        "site": "https://vscacchitti.github.io/EmployeeFinder-React/"
+    } 
+  
+]
