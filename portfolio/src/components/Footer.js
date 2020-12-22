@@ -2,14 +2,12 @@ import React from "react";
 
 function Footer() {
   return (
-  <footer>
-    <nav className="navbar fixed-bottom navbar-dark bg-primary text-align-center">
-      <div className="container-fluid text-center" id="footer">
-       &copy; {new Date().getFullYear()} COPYRIGHT 
+    <footer className="footer">
+      <div className="container bg-primary">
+        <p>&copy; Designed and Developed by Vince Scacchitti</p>
       </div>
-    </nav>
-  </footer>
-  );
+    </footer>
+  )
 }
 
 export default Footer;
