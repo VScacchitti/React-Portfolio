@@ -23,7 +23,7 @@ function AboutMe () {
                     <div className="card skills">
                   <div className="card-body text-center">
                     <h3  id="skill-head" className="card-title">Technical Skills</h3>
-                    <ul id="skill-list" class="card-text">
+                    <ul id="skill-list" className="card-text">
                       <li className="display"><span className="bold">Programming Languages:</span>HTML, CSS, JavaScript</li>
                       <li className="display"><span className="bold">Libraries/Frameworks:</span>JQuery, Express.js, BootStrap, React.js, Angular.js</li>
                       <li className="display"><span className="bold">Database Management:</span>MySql, Sequelize, MongoDB, Mongoose</li>
