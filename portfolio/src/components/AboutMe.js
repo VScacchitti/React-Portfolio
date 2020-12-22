@@ -1,6 +1,6 @@
 import React from "react";
 import Vince from "../Images/New-Bio-Image.png"
-import Resume from "..//Images/Resume2020.pdf"
+import Resume from "../Images/Resume2020.pdf"
 
 function AboutMe () {
     return (

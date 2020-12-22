@@ -44,7 +44,7 @@ function NavBar () {
               to="/contact"
               className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}
             >
-              Discover
+             Contact
             </Link>
 
 

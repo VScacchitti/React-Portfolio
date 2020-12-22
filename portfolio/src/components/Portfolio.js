@@ -1,11 +1,11 @@
 import React from "react";
-import "../index.css"
-import HomeWorkHelp from "../Images/homeworkhelper.png"
-import EDM from "../Images/EDM.png"
-import EmpSummGen from "../Images/EmpSummGen.png"
-import QuizApp from "../Images/QuizAPP.png"
-import Rebate from "../Images/rebate.png"
-import burger from "../Images/burger.png"
+import "../index.css";
+import HomeWorkHelp from "../Images/homeworkhelper.png";
+import EDM from "../Images/EDM.png";
+import EmpSummGen from "../Images/EmpSummGen.png";
+import QuizApp from "../Images/QuizAPP.png";
+import Rebate from "../Images/rebate.png";
+import burger from "../Images/burger.png";
 
 
 
@@ -31,7 +31,7 @@ function Portfolio(){
                        </ul>
                      </div>
                      <div
-                       class="row row-cols-1 row-cols-sm-6 row-cols-md-4 row-cols-lg-8 bg-white text-dark">
+                       className="row row-cols-1 row-cols-sm-6 row-cols-md-4 row-cols-lg-8 bg-white text-dark">
                        <img className="port-img" src={QuizApp} alt="QuizAPP Homepage" />
                       <ul>
                      <li className="port-li"><span className="bold">Project Title:</span>QuizApp</li>
@@ -55,7 +55,7 @@ function Portfolio(){
   <br />
   <section
   className="row row-cols-1 row-cols-sm-6 row-cols-md-4 row-cols-lg-8 bg-white text-dark">
-    <img className="port-img" src={EDM} />
+    <img className="port-img" src={EDM} alt="Employee Data Management" />
     <ul>
 
       <li className="port-li"><span className="bold">Project Title:</span>E.D.M</li>
@@ -63,7 +63,6 @@ function Portfolio(){
       <li className="port-li"><span className="bold">Deployed Application:</span><a href="">Head Over to GitHub to install this!</a></li>
       <li className="port-li"><span className="bold">Description:</span>This command line application allows the user to access, add, update, or delete employee information from a database.</li>
     </ul>
-
   </section>
      </div>
      <div>
@@ -82,7 +81,7 @@ function Portfolio(){
   </section>
   <br/>
   <section
-  class="row row-cols-1 row-cols-sm-6 row-cols-md-4 row-cols-lg-8 bg-white text-dark">
+  className="row row-cols-1 row-cols-sm-6 row-cols-md-4 row-cols-lg-8 bg-white text-dark">
     <img className="port-img" src={burger} alt="Burger Homepage"/>
     <ul>
 
