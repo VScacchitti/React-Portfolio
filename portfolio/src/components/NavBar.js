@@ -1,8 +1,10 @@
 import React from "react";
+import { Link } from "react-router-dom";
+import Navbar from 'react-bootstrap/Navbar'
 
 function NavBar () {
     return (
-        <nav className="navbar fixed-top navbar-dark bg-primary text-white">
+        <Navbar className="navbar fixed-top navbar-dark bg-primary text-white">
           <a className="navbar-brand" href="https://www.instagram.com/vpscacchitti/"
             >Vince Scacchitti</a>
           <button
@@ -18,14 +20,38 @@ function NavBar () {
           </button>
           <section className="collapse navbar-collapse" id="navbarNavAltMarkup">
             <section className="navbar-nav">
-              <a className="nav-link active" href="index.html"
-                >About Me <span class="sr-only">(current)</span></a
-              >
-              <a className="nav-link" >Portfolio</a>
-              <a className="nav-link" >Contact</a>
+            <Link
+              to="/"
+              className={
+                window.location.pathname === "/" || window.location.pathname === "/about"
+                  ? "nav-link active"
+                  : "nav-link"
+              }
+            >
+              About
+            </Link>
+
+            <Link
+              to="/portfolio"
+              className={window.location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}
+            >
+              Portfolio
+            </Link>
+
+
+
+            <Link
+              to="/contact"
+              className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}
+            >
+              Discover
+            </Link>
+
+
+
             </section>
           </section>
-        </nav>
+        </Navbar>
     )
 }
 

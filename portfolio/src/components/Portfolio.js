@@ -3,10 +3,10 @@ import "../index.css"
 import HomeWorkHelp from "../Images/homeworkhelper.png"
 import EDM from "../Images/EDM.png"
 import EmpSummGen from "../Images/EmpSummGen.png"
-import QuizApp from "../Images/Quiz.png"
-import REbate from "../Images/Re:bate.png"
+import QuizApp from "../Images/QuizAPP.png"
+import Rebate from "../Images/rebate.png"
 import burger from "../Images/burger.png"
-import Weather from "../Images/WeatherDAsh..png"
+
 
 
 
@@ -70,7 +70,7 @@ function Portfolio(){
       <h2>Full-Stack Delvelopment Examples</h2>
       <section
       className="row row-cols-1 row-cols-sm-4 row-cols-md-4 row-cols-lg-4 bg-white text-dark">
-      <img className="port-img" src={REbate} alt="Re:bate Homepage"/>
+      <img className="port-img" src={Rebate} alt="Re:bate Homepage"/>
     <ul>
       <li className="port-li"><span className="bold">Project Title:</span>Re: Bate</li>
       <li className="port-li"><span className="bold">GitHub Repository:</span><a href="https://github.com/VScacchitti/RE-Bate">Re: Bate Repository</a></li>
