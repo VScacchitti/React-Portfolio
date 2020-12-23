@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.9e1c6e7a.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.76267f8f.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.76267f8f.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.eca91096.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.eca91096.js.map",
+    "static/js/2.b1694876.chunk.js": "/React-Portfolio/static/js/2.b1694876.chunk.js",
+    "static/js/2.b1694876.chunk.js.map": "/React-Portfolio/static/js/2.b1694876.chunk.js.map",
+    "static/js/3.caed2c3d.chunk.js": "/React-Portfolio/static/js/3.caed2c3d.chunk.js",
+    "static/js/3.caed2c3d.chunk.js.map": "/React-Portfolio/static/js/3.caed2c3d.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.9e1c6e7a.chunk.css.map": "/React-Portfolio/static/css/main.9e1c6e7a.chunk.css.map",
+    "static/js/2.b1694876.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.b1694876.chunk.js.LICENSE.txt",
+    "static/media/New-Bio-Image.fb0d92fa.png": "/React-Portfolio/static/media/New-Bio-Image.fb0d92fa.png",
+    "static/media/Resume2020.5e9dec36.pdf": "/React-Portfolio/static/media/Resume2020.5e9dec36.pdf",
+    "static/media/App.css": "/React-Portfolio/static/media/backgroundimage.492aae9a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eca91096.js",
+    "static/js/2.b1694876.chunk.js",
+    "static/css/main.9e1c6e7a.chunk.css",
+    "static/js/main.76267f8f.chunk.js"
+  ]
+}
