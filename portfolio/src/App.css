@@ -112,29 +112,12 @@ ul {
   padding: 60px;
   margin-top: 75px;
 }
+
 .header {
-  font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: 30px;
-}
-.port-li {
-  list-style-type: none;
-  font-size: 16px;
-  padding: 5px;
-  margin-top: 5px;
-}
-
-.bold {
-  font-weight: bold;
-  font-size: 18px;
-}
-
-h2 {
-  text-align: center;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  padding: 10px;
-  margin: 10px;
-  color: #287bff;
+  font-size: 35px;
 }
+
 /*Contact Section*/
 
 .contact h1 {

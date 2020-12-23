@@ -11,7 +11,7 @@
     {
         "id": 2,
         "image": "https://user-images.githubusercontent.com/67161794/91618186-b8330780-e957-11ea-8c36-b2bbf280fa5b.png",
-        "name":"QuizApp.",
+        "name":"QuizApp",
         "description": "In this simple quiz application we use HTML, CSS, JS, and DOM manipulation to write a quiz about coding, This quiz is timed, begins on a start button, the quiz lets a user know if they are correct or incorrect by showing red or green on the selected answer. The top 5 quiz scores are saved onto a High Scores page where the user can enter their intials or name.",
         "tech": "HTML5, CSS3, JavaScript",
         "github": "https://github.com/VScacchitti/QuizApp",
@@ -56,7 +56,7 @@
     {
         "id": 7,
         "image": "https://user-images.githubusercontent.com/67161794/102687202-70ace180-41bb-11eb-9bd2-e2ba2659ea7b.png",
-        "name":"EmployeeFinder",
+        "name":"EmployeeFind",
         "description": "An employer Database built with React, and uses the random user API to populate the table wiht an image, name, phone, email and DOB. The user can sort by name of the employee by clicking on the column. They can also search for a specifc employee using the search bar.",
         "tech": " React.js, HTML5, CSS3, JavaScript",
         "github": "https://github.com/VScacchitti/EmployeeFinder-React",

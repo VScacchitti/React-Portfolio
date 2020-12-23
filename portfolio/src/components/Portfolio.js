@@ -13,7 +13,7 @@ function Projects(props) {
         <div className="img-container">
           <Card>
             <CardHeader className="header text-light bg-primary">{props.name}</CardHeader>
-            <CardImg top width="100%" src={props.picture} alt="website image"/>
+            <CardImg top width="100%" src={props.picture} alt="website image" className="img-size"/>
               <CardBody className="card body">
   
                 <CardTitle 
