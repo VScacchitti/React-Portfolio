@@ -3,14 +3,12 @@ import React from "react";
 
 function Contact (){
     return (
-        <div className="container fa-align-centerr text-center">
+        <div className="container">
         <section className="contact">
           <div>
             <h1>Contact Developer</h1>
           </div>
-          <div
-            className="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1 bg-white text-dark"
-          >
+          
             <div id="email-icon" className="icon">
               <h3 className="fa-align-centerr">Email Me!</h3>
               <a href="mailto:VScacchitti24@gmail.com"><i
@@ -18,11 +16,7 @@ function Contact (){
                   aria-hidden="true"
                 ></i>Click Me!</a>
             </div>
-          </div>
-  
-          <div
-            className="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1 bg-white text-dark"
-          >
+      
             <div id="mobile-icon" className="icon">
               <h3 className="fa-align-centerr">Call Me!</h3>
               <a href="tel:(860)913-5775"
@@ -31,11 +25,8 @@ function Contact (){
                   aria-hidden="true"
                 ></i>Click Me!</a>
             </div>
-          </div>
+          
   
-          <div
-            className="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg- bg-white text-dark"
-          ></div>
           <div id="github-icon" className="icon">
             <h3 className="fa-align-centerr">My Work</h3>
             <a href="https://github.com/VScacchitti"
@@ -44,9 +35,7 @@ function Contact (){
                 aria-hidden="true"
               ></i>Click Me!</a>
           </div>
-          <div
-            className="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1 bg-white text-dark"
-          >
+         
             <div id="linkedin-icon" className="icon">
               <h3 className="fa-align-centerr">LinkedIn!</h3>
               <a href="https://www.linkedin.com/in/vincent-scacchitti-254b301b3/"
@@ -55,11 +44,7 @@ function Contact (){
                   aria-hidden="true"
                 ></i>Click Me!</a>
             </div>
-          </div>
-  
-          <div
-            className="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1 bg-white text-dark text-center"
-          >
+          
             <div id="resume-icon" className="icon">
               <h3 className="fa-align-centerr">My Resume!</h3>
               <a href="Assets/Resume2020.pdf"
@@ -68,7 +53,6 @@ function Contact (){
                   aria-hidden="true"
                 ></i>Click Me!</a>
             </div>
-          </div>
         </section>
       </div>
     )
