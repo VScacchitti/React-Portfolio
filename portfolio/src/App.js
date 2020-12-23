@@ -13,7 +13,7 @@ import Footer from "../src/components/Footer"
 function App() {
   return (
     <div className="App">
-         <Router>
+         <Router basename="/react-portfolio">
       <div>
         <Header />
         <Route exact path="/" component={HomePage} />
