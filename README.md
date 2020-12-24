@@ -19,6 +19,6 @@ HTML5
 CSS3
 
 #### Links
-Deployed Application:https://vscacchitti.github.io/react-portfolio/contact
+Deployed Application:https://vscacchitti.github.io/React-Portfolio/
 
 GitHub Repo: https://github.com/VScacchitti/React-Portfolio
